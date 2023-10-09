@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.form{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+h1
+{color: white;
+
+}
+body{
+    background-color:  darkblue;
+    
+
+}
+
+#name{
+    width: 80%;
+    padding: 5px;
+    border-radius: 5%;
+    outline: 0 ;
+    border: 1px solid lightgray;
+}
+
+table{
+    color: white;
+    background-color: rgb(8, 48, 80);
+    border-collapse: collapse;
+    font-size: 16px;
+    font-family: serif;
+    padding: 5px;
+    border: 5px solid white;
+    text-align: -webkit-center;
+     height: 90vh;
+     width: 100vh;
+     display: flex;
+     align-items: center;
+     justify-self: center;
+     
+
+}
